@@ -39,7 +39,7 @@ Folgende Komponenten müssen lokal installiert sein:
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <linktorepository> udg-probeaufgabe
+$ gh repo clone Pavel-Sharudin/udg-probeaufgabe-pavlo-sharudin
 $ cd udg-probeaufgabe
 $ npm create vite@latest
 $ npm install papaparse
